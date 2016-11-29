@@ -1,0 +1,11 @@
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\Tobii.EyeX.Client.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\EyesControllTV.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\EyesControllTV.pdb
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\EyeXFramework.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\Tobii.EyeX.Client.Net20.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\EyeXFramework.pdb
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\EyeXFramework.xml
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\bin\Debug\Tobii.EyeX.Client.Net20.xml
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\obj\Debug\EyesControllTV.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\obj\Debug\EyesControllTV.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyesControllTV\obj\Debug\EyesControllTV.pdb
