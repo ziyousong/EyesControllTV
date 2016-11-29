@@ -17,7 +17,7 @@ Reference link: https://github.com/z3t0/Arduino-IRremote
 3. Move the "IRremote" folder that has been extracted to your libraries directory.
 4. Make sure to delete Arduino_Root/libraries/RobotIRremote. Where Arduino_Root refers to the install directory of Arduino. The library RobotIRremote has similar definitions to IRremote and causes errors.
 
-###Code example: receive infrared signals
+###Code example: Receive infrared signals
 ```
 #include <IRremote.h>
 
@@ -38,3 +38,5 @@ void loop() {
   delay(200);
 }
 ```
+
+###Code example: Send infrared signals
