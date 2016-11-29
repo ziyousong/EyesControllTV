@@ -5,7 +5,6 @@
 
 int RECV_PIN = 11;
 IRrecv irrecv(RECV_PIN); //初始化紅外線訊號輸入
-IRsend irsend;
 
 decode_results results; //儲存信號結構
 
