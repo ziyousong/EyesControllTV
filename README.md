@@ -9,4 +9,5 @@ What you need to know before you begin using this library:
 2. This repository includes IRremote Arduino library on github(https://github.com/z3t0/Arduino-IRremote)
 
 ##Getting Started
-###Arduino
+##Arduino
+
