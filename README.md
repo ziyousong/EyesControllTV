@@ -93,7 +93,7 @@ public ArduinoConnection a;
 a = new ArduinoConnection("COM3", 9600);
 ```
 ###code example: Catch gaze point and send params
-In this example 會抓到座標以螢幕大小計算0~10的範圍
+In this example 
 ```
 using EyesControllTV;
 
@@ -105,6 +105,7 @@ a = new ArduinoConnection("COM3", 9600);
 stream = new GazeDataStream();
 stream.startEyeTrack();
 
+//most doing in EventHandler
 eyeX = stream.getEyeX();
 eyeY = stream.getEyeY();
 
@@ -118,3 +119,4 @@ if(eyeX == 8 && eyeY ==9){
   a.PrevChannel(1000);
 }
 ```
+會抓到座標以螢幕大小計算0~10的範圍
