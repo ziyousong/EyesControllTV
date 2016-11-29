@@ -1,0 +1,43 @@
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyeControllTV.exe.config
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\MainWindow.g.cs
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\App.g.cs
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV_MarkupCompile.cache
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV_MarkupCompile.lref
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\Tobii.EyeX.Client.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyeControllTV.exe
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyeControllTV.pdb
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyesControllTV.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyeXFramework.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\Tobii.EyeX.Client.Net20.dll
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyesControllTV.pdb
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyeXFramework.pdb
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\EyeXFramework.xml
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\bin\Debug\Tobii.EyeX.Client.Net20.xml
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\MainWindow.baml
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV.g.resources
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV.exe
+c:\users\andy\documents\visual studio 2015\Projects\EyesControllTV\EyeControllTV\obj\Debug\EyeControllTV.pdb
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyeControllTV.exe.config
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV.exe
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV.pdb
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyeControllTV.exe
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyeControllTV.pdb
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyesControllTV.dll
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyeXFramework.dll
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyesControllTV.pdb
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyeXFramework.pdb
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\EyeXFramework.xml
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV.csprojResolveAssemblyReference.cache
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\MainWindow.g.cs
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\App.g.cs
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV_MarkupCompile.cache
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV_MarkupCompile.lref
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\MainWindow.baml
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV.g.resources
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV.Properties.Resources.resources
+C:\Users\andy\Documents\Visual Studio 2015\Projects\EyesControllTV - 複製\EyeControllTV\obj\Debug\EyeControllTV.csproj.GenerateResource.Cache
