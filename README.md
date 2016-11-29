@@ -22,8 +22,8 @@ Reference link: https://github.com/z3t0/Arduino-IRremote
 #include <IRremote.h>
 
 int RECV_PIN = 11;
-IRrecv irrecv(RECV_PIN); //Initialize
-decode_results results; //Store infrared signals
+IRrecv irrecv(RECV_PIN); // Initialize
+decode_results results; // Store infrared signals
 
 void setup() {
   Serial.begin(9600);
@@ -33,7 +33,7 @@ void setup() {
 void loop() {
   if(irrecv.decode(&results)){
     Serial.println(results.value,HEX);
-    irrecv.resume(); //prepare to receive next signals
+    irrecv.resume(); // Prepare to receive next signals
   }
   delay(200);
 }
