@@ -40,7 +40,7 @@ void loop() {
 ```
 
 ###Code example: Send infrared signals
-An IR LED must be connected to Arduino PWM pin 3.
+An IR Transmitter must be connected to Arduino PWM pin 3.
 ```
 #include <IRremote.h>
 
