@@ -46,11 +46,38 @@ An IR Transmitter must be connected to Arduino PWM pin 3.
 
 IRsend irsend;
 
+void setup() {
+  Serial.begin(9600);
+}
+
 void loop() {
-	for (int i = 0; i < 3; i++) {
-		irsend.sendSony(0xa90, 12); // Send an infrared signals '0xa90' and bit '12'
-		delay(40);
-	}
-	delay(5000); //5 second delay between each signal burst
+  if( (d = Serial.read())!= -1 ){
+    switch(d){
+      case '1': // case 1 PowerON/OFF
+      for (int i = 0; i < 3; i++) {
+	irsend.sendSony(0xa90, 12); // Send an infrared signals '0xa90' and bit '12'
+	delay(40);
+      }
+      break;
+      case '2': // case 2 Switching next channel
+      for (int i = 0; i < 3; i++) {
+	irsend.sendSony(0xHEX, bit); // Hex is an infrared signals you received
+	delay(40);
+      }
+      break;
+      case '3': case 3 Switching prev channel
+      for (int i = 0; i < 3; i++) {
+	irsend.sendSony(0xHEX, bit);
+	delay(40);
+      }
+      break;
+    }
+  }
 }
 ```
+
+##.NET C#
+###Installation
+1. Download ZIP from <a href="https://github.com/ziyousong/EyesControllTV">Homepage</a>.
+2. Extract the zip file.
+3. 
