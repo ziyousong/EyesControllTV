@@ -40,3 +40,17 @@ void loop() {
 ```
 
 ###Code example: Send infrared signals
+An IR LED must be connected to Arduino PWM pin 3.
+```
+#include <IRremote.h>
+
+IRsend irsend;
+
+void loop() {
+	for (int i = 0; i < 3; i++) {
+		irsend.sendSony(0xa90, 12); // Send an infrared signals '0xa90' and bit '12'
+		delay(40);
+	}
+	delay(5000); //5 second delay between each signal burst
+}
+```
