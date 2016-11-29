@@ -8,5 +8,5 @@ What you need to know before you begin using this library:
 1. Prepare 3 device: Tobii EyeX, IR Transmitter, IR Receiver.
 2. This repository includes IRremote Arduino library on github(https://github.com/z3t0/Arduino-IRremote)
 
-#Getting Started
-
+##Getting Started
+###Arduino
