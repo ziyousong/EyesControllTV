@@ -10,6 +10,12 @@ What you need to know before you begin using this library:
 
 ##Getting Started
 ##Arduino
+Reference link: https://github.com/z3t0/Arduino-IRremote
 ###Installation
+1. Download ZIP from <a href="https://github.com/ziyousong/EyesControllTV">Homepage</a>.
+2. Extract the zip file.
+3. Move the "IRremote" folder that has been extracted to your libraries directory.
+4. Make sure to delete Arduino_Root/libraries/RobotIRremote. Where Arduino_Root refers to the install directory of Arduino. The library RobotIRremote has similar definitions to IRremote and causes errors.
+
 
 
