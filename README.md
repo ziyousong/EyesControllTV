@@ -76,8 +76,45 @@ void loop() {
 }
 ```
 
-##.NET C#
+##.NET C Sharp
 ###Installation
 1. Download ZIP from <a href="https://github.com/ziyousong/EyesControllTV">Homepage</a>.
 2. Extract the zip file.
-3. 
+3. Create a WPF project.
+4. Right-click on the project node and click Add Reference.
+5. Select the components "EyesControllTV.dll" in DotNETLibrary/EyesControllTV/bin/Debug/EyesControllTV.dll, then click OK.
+
+###code example: Connect to Arduino
+```
+using EyesControllTV;
+
+public ArduinoConnection a;
+
+a = new ArduinoConnection("COM3", 9600);
+```
+###code example: Catch gaze point and send params
+In this example 會抓到座標以螢幕大小計算0~10的範圍
+```
+using EyesControllTV;
+
+public ArduinoConnection a;
+public GazeDataStream stream;
+double eyeX, eyeY;
+
+a = new ArduinoConnection("COM3", 9600);
+stream = new GazeDataStream();
+stream.startEyeTrack();
+
+eyeX = stream.getEyeX();
+eyeY = stream.getEyeY();
+
+if(eyeX == 10 && eyeY ==9){
+  a.PowerON(1000);
+}
+if(eyeX == 9 && eyeY ==9){
+  a.NextChannel(1000);
+}
+if(eyeX == 8 && eyeY ==9){
+  a.PrevChannel(1000);
+}
+```
