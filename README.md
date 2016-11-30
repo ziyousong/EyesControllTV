@@ -93,7 +93,7 @@ public ArduinoConnection a;
 a = new ArduinoConnection("COM3", 9600);
 ```
 ###code example: Catch gaze point and send params
-In this example 
+In this example the 
 ```
 using EyesControllTV;
 
@@ -119,4 +119,4 @@ if(eyeX == 8 && eyeY ==9){
   a.PrevChannel(1000);
 }
 ```
-會抓到座標以螢幕大小計算0~10的範圍
+###Why does the TV turn on when eyeX on number 10 and eyeY on number 9
