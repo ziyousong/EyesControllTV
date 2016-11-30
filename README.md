@@ -109,13 +109,13 @@ stream.startEyeTrack();
 eyeX = stream.getEyeX();
 eyeY = stream.getEyeY();
 
-if(eyeX == 10 && eyeY ==9){
+if(eyeX >= 9 && eyeX <= 10 && eyeY >=9 && eyeY <=10){
   a.PowerON(1000);
 }
-if(eyeX == 9 && eyeY ==9){
+if(eyeX >= 8 && eyeX <= 9 && eyeY >=9 && eyeY <=10){
   a.NextChannel(1000);
 }
-if(eyeX == 8 && eyeY ==9){
+if(eyeX >= 7 && eyeX <= 8 && eyeY >=9 && eyeY <=10){
   a.PrevChannel(1000);
 }
 ```
