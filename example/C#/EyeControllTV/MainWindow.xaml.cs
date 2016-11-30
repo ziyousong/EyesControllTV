@@ -41,15 +41,15 @@ namespace EyeControllTV
 
             label1.Content = eyePoint;
 
-            if (eyePoint.X == 10 && eyePoint.Y >= 9 && eyePoint.Y <= 10)
+            if (eyePoint.X >= 9 && eyePoint.X <= 10 && eyePoint.Y >= 9 && eyePoint.Y <= 10)
             {
                 a.PowerON(1000);
             }
-            else if (eyePoint.X == 9 && eyePoint.Y >= 9 && eyePoint.Y <= 10)
+            else if (eyePoint.X >= 8 && eyePoint.X <= 9 && eyePoint.Y >= 9 && eyePoint.Y <= 10)
             {
                 a.NextChannel(1000);
             }
-            else if (eyePoint.X == 8 && eyePoint.Y >= 9 && eyePoint.Y <= 10)
+            else if (eyePoint.X >= 7 && eyePoint.X <= 8 && eyePoint.Y >= 9 && eyePoint.Y <= 10)
             {
                 a.PrevChannel(1000);
             }
