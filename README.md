@@ -1,11 +1,11 @@
 # EyesControllTV
-This repository contains a .NET library and a Arduino library that can be used to switching to a channel by eyes.
+This repository contains a .NET library and a Arduino library that can be used to control TV by eyes.
 
-The .NET library of classes for programmers to make it easy to connect to an arduino via usb, and get the real-time gaze coordinate simply.
+The .NET library of classes make it easy to connect to an arduino via usb, and get the real-time gaze coordinate simply.
 
 What you need to know before you begin using this library:
 
-1. Prepare 3 device: Tobii EyeX, IR Transmitter, IR Receiver.
+1. Prepare 3 devices: Tobii EyeX, IR Transmitter, IR Receiver.
 2. This repository includes IRremote Arduino library on github(https://github.com/z3t0/Arduino-IRremote)
 
 ##Getting Started
@@ -13,9 +13,9 @@ What you need to know before you begin using this library:
 Reference link: https://github.com/z3t0/Arduino-IRremote
 ###Installation
 1. Download ZIP from <a href="https://github.com/ziyousong/EyesControllTV">Homepage</a>.
-2. Extract the zip file.
+2. Extract the ZIP file.
 3. Move the "IRremote" folder that has been extracted to your libraries directory.
-4. Make sure to delete Arduino_Root/libraries/RobotIRremote. Where Arduino_Root refers to the install directory of Arduino. The library RobotIRremote has similar definitions to IRremote and causes errors.
+4. Make sure to delete Arduino_Root/libraries/RobotIRremote. Arduino_Root refers to the install directory of Arduino. Because the library RobotIRremote has similar definitions to IRremote, it might cause errors.
 
 ###Code example: Receive infrared signals
 ```
@@ -79,7 +79,7 @@ void loop() {
 ##.NET C Sharp
 ###Installation
 1. Download ZIP from <a href="https://github.com/ziyousong/EyesControllTV">Homepage</a>.
-2. Extract the zip file.
+2. Extract the ZIP file.
 3. Create a WPF project.
 4. Right-click on the project node and click Add Reference.
 5. Select the components "EyesControllTV.dll" in DotNETLibrary/EyesControllTV/bin/Debug/EyesControllTV.dll, then click OK.
