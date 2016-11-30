@@ -126,4 +126,4 @@ The various screen sizes have been calculated using EyesControllTV library, then
 Therefore, according to example, the results will be the case:<p>
 <img height="400px" width="700px" src="https://lh3.googleusercontent.com/SH2QE1Y2srbu5oI39Jo-AbWJzHhH7VnjtrerC6Vo5DdvOVDe5Y2pfbZmUB7F2xjFVLT9VXUVgUBGFoI=w1920-h950-rw"></img>
 <p>
-When you gaze the X 9~10 & Y 9~10 block, the tv will be turned on in 2 seconds. And you can arbitrarily change any block if you want to
+When you gaze at X 9~10 & Y 9~10 block, the tv will be turned on in 2 seconds. And you can arbitrarily change any block if you want to
