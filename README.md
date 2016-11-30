@@ -93,7 +93,7 @@ ArduinoConnection a;
 a = new ArduinoConnection("COM3", 9600);
 ```
 ###code example: Catch gaze point and send params
-In this example the PowerON、NextChannel、PrevChannel function include second parameter that is used to delay an event trigger time.
+In this example the PowerON、NextChannel、PrevChannel function include millisecond parameter that is used to delay an event trigger time.
 ```
 using EyesControllTV;
 
