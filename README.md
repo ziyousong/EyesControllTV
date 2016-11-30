@@ -105,7 +105,7 @@ a = new ArduinoConnection("COM3", 9600);
 stream = new GazeDataStream();
 stream.startEyeTrack();
 
-//most programming in EventHandler
+//↓Most programming in EventHandler
 
 eyeX = stream.getEyeX();
 eyeY = stream.getEyeY();
@@ -120,7 +120,7 @@ if(eyeX >= 7 && eyeX <= 8 && eyeY >=9 && eyeY <=10){
   a.PrevChannel(1000);
 }
 
-//most programming in EventHandler
+//↑Most programming in EventHandler
 ```
 ###Why does the TV turn on when eyeX and eyeY between 9 ~ 10
 The various screen sizes all have been divided by ten using EyesControllTV library, then the results are as follows:<p>
