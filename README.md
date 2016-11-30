@@ -1,7 +1,7 @@
 # EyesControllTV
 This repository contains a .NET library and a Arduino library that can be used to switching to a channel by eyes.
 
-The .NET library of classes for programmers to make it easy to connect to an arduino via usb, and can catch gaze point data simply.
+The .NET library of classes for programmers to make it easy to connect to an arduino via usb, and get the gaze coordinate simply.
 
 What you need to know before you begin using this library:
 
