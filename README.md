@@ -84,7 +84,7 @@ void loop() {
 4. Right-click on the project node and click Add Reference.
 5. Select the components "EyesControllTV.dll" in DotNETLibrary/EyesControllTV/bin/Debug/EyesControllTV.dll, then click OK.
 
-###code example: Connect to Arduino
+###Code example: Connect to Arduino
 ```
 using EyesControllTV;
 
@@ -92,7 +92,7 @@ ArduinoConnection a;
 
 a = new ArduinoConnection("COM3", 9600);
 ```
-###code example: Catch gaze point and send params
+###Code example: Catch gaze point and send params
 In this example the PowerON、NextChannel、PrevChannel function include millisecond parameter that is used to delay an event trigger time.
 ```
 using EyesControllTV;
