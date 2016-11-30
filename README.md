@@ -82,7 +82,7 @@ void loop() {
 2. Extract the ZIP file.
 3. Create a WPF project.
 4. Right-click on the project node and click Add Reference.
-5. Select the componen DotNETLibrary/EyesControllTV/bin/Debug/EyesControllTV.dll, then click OK.
+5. Select the component DotNETLibrary/EyesControllTV/bin/Debug/EyesControllTV.dll, then click OK.
 
 ###Code example: Connect to Arduino
 ```
