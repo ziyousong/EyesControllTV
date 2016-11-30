@@ -88,7 +88,7 @@ void loop() {
 ```
 using EyesControllTV;
 
-public ArduinoConnection a;
+ArduinoConnection a;
 
 a = new ArduinoConnection("COM3", 9600);
 ```
@@ -97,8 +97,8 @@ In this example the
 ```
 using EyesControllTV;
 
-public ArduinoConnection a;
-public GazeDataStream stream;
+ArduinoConnection a;
+GazeDataStream stream;
 double eyeX, eyeY;
 
 a = new ArduinoConnection("COM3", 9600);
