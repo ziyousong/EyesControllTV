@@ -93,7 +93,7 @@ ArduinoConnection a;
 a = new ArduinoConnection("COM3", 9600);
 ```
 ###code example: Catch gaze point and send params
-In this example the 
+In this example the PowerON、NextChannel、PrevChannel function include second parameter that is used to delay an event trigger time.
 ```
 using EyesControllTV;
 
@@ -126,4 +126,4 @@ The various screen sizes have been calculated using EyesControllTV library, then
 Therefore, according to example, the results will be the case:<p>
 <img height="400px" width="700px" src="https://lh3.googleusercontent.com/SH2QE1Y2srbu5oI39Jo-AbWJzHhH7VnjtrerC6Vo5DdvOVDe5Y2pfbZmUB7F2xjFVLT9VXUVgUBGFoI=w1920-h950-rw"></img>
 <p>
-When you gaze at X 9-10 & Y 9-10 block, the tv will be turned on in 2 seconds. And this trigger event can arbitrarily change to any block if you want.
+When you gaze at X 9-10 & Y 9-10 block, the tv will be turned on in 2 seconds. And this trigger event was able to arbitrarily change to any block if you want.
