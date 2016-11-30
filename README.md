@@ -120,10 +120,10 @@ if(eyeX >= 7 && eyeX <= 8 && eyeY >=9 && eyeY <=10){
 }
 ```
 ###Why does the TV turn on when eyeX and eyeY between 9 ~ 10
-The various screen sizes have been calculated using EyesControllTV library,then the results are as follows:<p>
+The various screen sizes have been calculated using EyesControllTV library, then the results are as follows:<p>
 <img height="400px" width="700px" src="https://lh5.googleusercontent.com/pS44Akh_IfXXtvYe37jtTI0o3K5DB73NoGQNe78YKlYF5opFhfgFLTOdY3nxyTXlBrj6B7-IPXEt3OY=w1920-h950-rw"></img>
 <p>
 Therefore, according to example, the results will be the case:<p>
 <img height="400px" width="700px" src="https://lh3.googleusercontent.com/SH2QE1Y2srbu5oI39Jo-AbWJzHhH7VnjtrerC6Vo5DdvOVDe5Y2pfbZmUB7F2xjFVLT9VXUVgUBGFoI=w1920-h950-rw"></img>
 <p>
-When you gaze at the X 9~10 & Y 9~10 block, the tv will be turned on in 2 seconds.
+When you gaze at the X 9~10 & Y 9~10 block, the tv will be turned on in 2 seconds. And you can arbitrarily change any block if you want to
