@@ -121,9 +121,9 @@ if(eyeX >= 7 && eyeX <= 8 && eyeY >=9 && eyeY <=10){
 ```
 ###Why does the TV turn on when eyeX and eyeY between 9 ~ 10
 The various screen sizes have been divided by ten using EyesControllTV library, then the results are as follows:<p>
-<img height="400px" width="700px" src="https://lh6.googleusercontent.com/2YoY1PPS7tSoUhxttlAOjG_eELIHX7ngtIwKuhgiX_UbSUs-E9mZdSEGbcIfPJ99JhgD9W9eI8Hxsw=w1366-h676-rw"></img>
+<img height="400px" width="700px" src="http://i.imgur.com/YWY4PBH.png"></img>
 <p>
 Therefore, according to example, the results will be the case:<p>
-<img height="400px" width="700px" src="https://lh3.googleusercontent.com/VPhfYwXag1y_E16IvS8oELp8pOcLTmG1MbXItN-459KW1WLdv2PRQ7ylGTH5ZUI88j9wL175Xzgyrw=w1366-h676-rw"></img>
+<img height="400px" width="700px" src="http://i.imgur.com/ingGlI5.png"></img>
 <p>
 When you gaze at X 9-10 & Y 9-10 block, the tv will be turned on in 2 seconds. And this trigger event was able to arbitrarily change to any block if you want.
