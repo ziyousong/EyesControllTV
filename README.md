@@ -121,4 +121,4 @@ if(eyeX >= 7 && eyeX <= 8 && eyeY >=9 && eyeY <=10){
 ```
 ###Why does the TV turn on when eyeX and eyeY between 9 ~ 10
 The various screen sizes have been calculated using EyesControllTV library,the results are as follows:<p>
-<img height="500px" width="500px" src="https://lh4.googleusercontent.com/JwgMYgTKRQ6yc1-FVF2kDT7xcSPbFzZNstxg88E8k-YPoinM6xR_ovHuttwtl7TFRAEK7zx0wFmE-BQ=w1920-h950-rw"></img>
+<img height="500px" width="850px" src="https://lh4.googleusercontent.com/JwgMYgTKRQ6yc1-FVF2kDT7xcSPbFzZNstxg88E8k-YPoinM6xR_ovHuttwtl7TFRAEK7zx0wFmE-BQ=w1920-h950-rw"></img>
