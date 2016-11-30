@@ -123,7 +123,7 @@ if(eyeX >= 7 && eyeX <= 8 && eyeY >=9 && eyeY <=10){
 //most programming in EventHandler
 ```
 ###Why does the TV turn on when eyeX and eyeY between 9 ~ 10
-The various screen sizes have been divided by ten using EyesControllTV library, then the results are as follows:<p>
+The various screen sizes all have been divided by ten using EyesControllTV library, then the results are as follows:<p>
 <img height="400px" width="700px" src="http://i.imgur.com/YWY4PBH.png"></img>
 <p>
 Therefore, according to example, the results will be the case:<p>
