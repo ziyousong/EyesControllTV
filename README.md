@@ -129,4 +129,4 @@ The various screen sizes all have been divided by 10 * 10   using EyesControllTV
 Therefore, according to example, the results will be the case:<p>
 <img height="400px" width="700px" src="http://i.imgur.com/ingGlI5.png"></img>
 <p>
-When you gaze at X 9-10 & Y 9-10 block, the tv will be turned on in 2 seconds. And this trigger event was able to arbitrarily change to any block if you want.
+When you gaze at X 9-10 & Y 9-10 block, the TV will be turned on in 2 seconds. And this trigger event was able to arbitrarily change to any block if you want.
