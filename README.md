@@ -6,7 +6,7 @@ The .NET library of classes make it easy to connect to an arduino via usb, and g
 What you need to know before you begin using this library:
 
 1. Prepare 3 devices: Tobii EyeX, IR Transmitter, IR Receiver.
-2. This repository includes IRremote Arduino library on github(https://github.com/z3t0/Arduino-IRremote)
+2. This repository includes IRremote Arduino library on github(https://github.com/z3t0/Arduino-IRremote).
 
 ##Getting Started
 ##Arduino
@@ -75,7 +75,7 @@ void loop() {
   }
 }
 ```
-
+<p>
 ##.NET C Sharp
 ###Installation
 1. Download ZIP from <a href="https://github.com/ziyousong/EyesControllTV">Homepage</a>.
