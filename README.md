@@ -1,5 +1,5 @@
 # EyesControllTV
-This repository contains a .NET library and a Arduino library that can be used to control TV by eye.
+This repository contains a .NET library and a Arduino library that can be used to control TV by eyes.
 
 The .NET library of classes make it easy to connect to an arduino via usb, and get the real-time gaze coordinate simply.
 
