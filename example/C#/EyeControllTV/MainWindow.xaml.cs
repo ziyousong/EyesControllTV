@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows;
-using EyesControllTV;
+using EyesControllTV
 
 namespace EyeControllTV
 {
